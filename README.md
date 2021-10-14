@@ -30,7 +30,11 @@ Details about the content of this release are available in the release note [her
 Below is the list of the BSP *component* drivers to be used with this BSP *board* driver. It is **crucial** that you use a consistent set of CMSIS - HAL - BSP versions, as mentioned in [this](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/STM32CubeF1/blob/master/Release_Notes.html) release note.
 
 * [stm32-bsp-common](https://github.com/STMicroelectronics/stm32-bsp-common)
-* ...
+* [stm32-cs43l22](https://github.com/STMicroelectronics/stm32-cs43l22)
+* [stm32-ili9320](https://github.com/STMicroelectronics/stm32-ili9320)
+* [stm32-ili9325](https://github.com/STMicroelectronics/stm32-ili9325)
+* [stm32-lis302dl](https://github.com/STMicroelectronics/stm32-lis302dl)
+* [stm32-stmpe811](https://github.com/STMicroelectronics/stm32-stmpe811)
 
 ## Troubleshooting
 
